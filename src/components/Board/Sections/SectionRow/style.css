@@ -1,0 +1,7 @@
+.game-section {
+	border: 2px solid gray;
+	height: 120px;
+	width:  120px;
+	display: inline-block;
+}
+
